@@ -1,0 +1,60 @@
+.main-logo{
+    width: 250px;
+}
+.all-btn{
+    background: #21b573;
+    color: white;
+    border: none;
+    padding: 10px 30px 10px 30px;
+    outline: none;
+    border-radius: 30px;
+    font-size: 20px;
+}
+.nav-menu a{
+    color: #000;
+    font-size: 20px;
+    font-weight: 500;
+}
+.bg-color{
+    background: #F0FFF0;
+}
+.bg-color-2{
+    background: #f0fff09a;
+}
+.slider{
+    padding: 80px 0;
+}
+.green-color{
+    color: #21b573;
+}
+.red-color{
+    color: #FA7D4F;
+}
+.slider p{
+    font-size: 20px;
+    font-weight: 500;
+}
+.slider h1{
+    font-size: 75px;
+    font-weight: 700;
+}
+.about{
+    padding: 80px 0;
+}
+.about img{
+    width: 70px;
+}
+.about .card{
+    height: 300px;
+    border: none;
+    border-radius: 10px;
+}
+.about h2{
+    font-weight: 600;
+    font-size: 30px;
+    margin-top: 10px;
+}
+.white-card{
+    background: #FFFFFF;
+    box-shadow: 0 5px 20px rgba(109, 109, 109, 0.12);;
+}
